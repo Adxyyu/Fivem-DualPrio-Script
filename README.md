@@ -1,7 +1,7 @@
 --Ace Perms--
 
-dual.prio give perms to both commands
-ex: add_ace group.owner dual.prio allow
+dual.prio - give access to both commands
+server.cfg: add_ace group.owner dual.prio allow
 make sure to replace owner with your group name!
 
 --Commands-- 
