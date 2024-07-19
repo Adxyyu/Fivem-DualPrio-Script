@@ -1,7 +1,9 @@
 --Ace Perms--
 
 dual.prio - give access to both commands
+
 server.cfg: add_ace group.owner dual.prio allow
+
 make sure to replace owner with your group name!
 
 --Commands-- 
