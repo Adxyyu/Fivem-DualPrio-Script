@@ -15,7 +15,6 @@ function DrawHUD()
     SetTextOutline()
     BeginTextCommandDisplayText("STRING")
 
-    -- Los Santos priority status text
     local timerTextLosSantos = ""
     if cooldownEndTimeLosSantos > 0 then
         local remainingTime = cooldownEndTimeLosSantos - GetGameTimer()
@@ -25,7 +24,6 @@ function DrawHUD()
         timerTextLosSantos = priorityStates[priorityIndexLosSantos]
     end
 
-    -- Blaine County priority status text
     local timerTextBlaineCounty = ""
     if cooldownEndTimeBlaineCounty > 0 then
         local remainingTime = cooldownEndTimeBlaineCounty - GetGameTimer()
