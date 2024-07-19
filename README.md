@@ -11,4 +11,4 @@ make sure to replace owner with your group name!
 
 --Problems-- 
 
-if you are having any problems with the script pls DM on Cfx.Forums and we will further discus from there!
+if you are having any problems with the script pls message me on [Cfx.Forums](https://forum.cfx.re) and we will further discus from there!
